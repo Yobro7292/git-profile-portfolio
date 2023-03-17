@@ -84,7 +84,7 @@ const Project = ({ repo, loading, github, googleAnalytics }) => {
           window?.open(item.html_url, '_blank');
         }}
       >
-        <div className="flex justify-between flex-col p-8 h-full w-full">
+        <div className="flex justify-between flex-col p-6 h-full w-full">
           <div>
             <div className="flex items-center">
               <div className="card-title text-lg tracking-wide flex text-base-content opacity-60">
