@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'yogi-hariyani-546408206',
+    linkedin: 'yogi-hariyani',
     twitter: 'YogiHariyani',
     mastodon: '',
     facebook: '',
